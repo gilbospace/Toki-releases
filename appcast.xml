@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Toki</title>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Sun, 07 Jun 2026 12:03:39 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gilbospace/Toki-releases/releases/download/prod/Toki.dmg" length="17887180" type="application/octet-stream" sparkle:edSignature="fvubQofSGEXg0B7cXWPS1EeUToIf+nphiQ9jddOmNNEeaAxM1B0aopVPbRvNG7Mq8ihvdMHbt5KquvLNM3riAg=="/>
+        </item>
+    </channel>
+</rss>
