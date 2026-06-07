@@ -4,11 +4,11 @@
         <title>Toki</title>
         <item>
             <title>0.9.0</title>
-            <pubDate>Sun, 07 Jun 2026 12:23:01 +0800</pubDate>
+            <pubDate>Sun, 07 Jun 2026 12:43:42 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gilbospace/Toki-releases/releases/download/prod/Toki.dmg" length="17887153" type="application/octet-stream" sparkle:edSignature="/lE9dJSNO2Z2kkm6RC4kncrn1/BdhllbR15WLWFaIHMNsPx0CTtKwGMx77TCzU4RUs/eINu6/79UmC9NYbK1Cw=="/>
+            <enclosure url="https://github.com/gilbospace/Toki-releases/releases/download/prod/Toki.dmg" length="17887210" type="application/octet-stream" sparkle:edSignature="eloE/ADEQdC7sPZoJxXT1jveietUUgJg6mdLOu+7ZMk54nUXT/2hBrcJisHURqyiqM9jEGEaIIX38EBeBGxoAg=="/>
         </item>
     </channel>
 </rss>
